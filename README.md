@@ -40,10 +40,6 @@ The trained machine learning model was deployed using joblib and a user interfac
 
 ![image](https://github.com/sujata1207/Visualization-Predictive-modeling-Post-Partum-Depression-using-Tableau-and-Python/assets/122312661/3c61e3fe-90d0-4932-9db9-5f515017ac42)
 
-<h2>Presentation and Video Demonstration</h2>
-To provide a demonstration of our project, we have recorded a video demonstration showcasing the Tableau dashboard and the Web Application. The video offers a brief overview of the visualization dashboard and demonstrates how healthcare professionals can utilize the prediction model in clinical settings.
-
-Link to Video Demonstration: [click here](https://youtu.be/azaCJs55D0g)
 
 <h2>Project Benefits</h2>
 <li>Early detection and intervention to prevent suicide.</li>
